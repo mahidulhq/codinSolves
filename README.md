@@ -1,2 +1,1 @@
-# codinSolves
- 
+solvin/practicin and dyin
